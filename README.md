@@ -2,6 +2,7 @@
 This project analyzes supermarket sales data to identify key performance metrics, customer behavior, and product/category performance. The goal was to derive actionable insights that can assist in strategic decision-making.
 
 Tools Used: Power BI, Microsoft Excel
+
 Dataset source: https://www.kaggle.com/datasets/chadwambles/supermarket-sales/data
 
 Process:
@@ -31,6 +32,8 @@ The dashboard provided clear insights into customer behavior, city-wise sales pe
 
 # ADVANCED Supermarket Sales Analysis Insights
 
+Tools Used: python, lupyter notebook, pandas, numpy, matplotlib, seaborn
+
 Objective
 This project analyzed supermarket sales data to identify key performance metrics, customer behavior, and product/category performance. The goal was to provide actionable insights that assist in strategic decision-making and demonstrate advanced data science techniques, including clustering and predictive modeling.
 
@@ -51,11 +54,11 @@ Actionable Business Insights
 
 Identified high-revenue product categories and cities, enabling targeted promotions and inventory optimization.
 Proposed customer-focused recommendations to improve revenue and customer retention strategies.
-Tools and Technologies Used
-Data Analysis: Pandas, NumPy, Matplotlib, Seaborn
+
 Machine Learning: Scikit-learn (Clustering, Regression)
 Data Engineering: Data cleaning, transformation, and feature encoding
 Visualization: Python plots and interactive charts for trends and segment insights
+
 Results
 Successfully segmented customers into actionable groups to tailor marketing strategies.
 Forecasted sales trends, enabling data-driven decision-making for product placement and promotions.
